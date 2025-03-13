@@ -1,12 +1,12 @@
 # Star-Ring-Demo - 科幻战舰RPG Demo 🚀⚔️
+<center>
+<img alt="Banner" src="Media/Start.gif" width="280"/>
+<img alt="Banner" src="Media/Loading.gif" width="280"/>
+</center>
 
-![Banner](Media/Start.gif)
+　　　　　　　　 *载入界面*　　　　　　　　　　　　　　　*游戏开始界面*
 
-*游戏开始界面*
 
-![Banner](Media/Loading.gif)
-
-*载入界面*
 
 ## 🔥 项目概述
 《Star Ring》是基于Unity开发的科幻战舰策略RPG原型，玩家通过模块化装配系统打造独特星舰，在程序生成的宇宙中指挥舰队作战，并通过多线剧情决定星际文明的命运。
@@ -48,7 +48,8 @@ graph TB
 ```
 
 ### 2. 科研系统
-![Banner](Media/ResearchPanel.gif)
+
+<img alt="Banner" src="Media/ResearchPanel.gif" width="290"/>
 
 超过100+科技等待研发，提供武器部件和舰队加成
 
@@ -60,7 +61,8 @@ graph TB
 收集物资，进行贸易，建立商业帝国
 
 ### 4. 装配系统(未完成)
-![Banner](Media/Equipment.gif)
+
+<img alt="Banner" src="Media/Equipment.gif" width="300"/>
 
 自由组装舰船，配置武器
 
