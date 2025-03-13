@@ -1,6 +1,6 @@
 # Star-Ring-Demo - 科幻战舰RPG Demo 🚀⚔️
-<img alt="Banner" src="Media/Start.gif" width="280"/>
-<img alt="Banner" src="Media/Loading.gif" width="280"/>
+<img alt="Banner" src="Media/Start.gif" width="260"/>
+<img alt="Banner" src="Media/Loading.gif" width="260"/>
 
 　　　　　　　　 *载入界面*　　　　　　　　　　　　　　　*游戏开始界面*
 
