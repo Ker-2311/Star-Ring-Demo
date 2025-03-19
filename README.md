@@ -55,7 +55,7 @@ graph TB
     G --> H[占领星系]
 ```
 
-### 2. 科研系统
+### 2. 科研系统 ⚡
 
 <img alt="Banner" src="Media/ResearchPanel.gif" width="290"/>
 
@@ -75,7 +75,7 @@ graph TB
 
 <img alt="Banner" src="Media/ResearchPanel2.png" width="290"/>
 
-### 3. 库存系统
+### 3. 库存系统 🏡
 
 ![Banner](Media/Inventory.png)
 
@@ -83,7 +83,7 @@ graph TB
 
 收集物资，进行贸易，建立商业帝国
 
-### 4. 装配系统(未完成)
+### 4. 装配系统(未完成) 🚀
 
 <img alt="Banner" src="Media/Equipment.gif" width="300"/>
 
@@ -91,13 +91,13 @@ graph TB
 
 自由组装舰船，配置武器
 
-### 5. 战斗系统(未完成)
+### 5. 战斗系统(未完成) ⚔️
 
 <img alt="Banner" src="Media/fight.gif"/>
 
 *多层战场维度 | 实时战术指挥 | 环境互动*
 
-### 6. Odin配置表
+### 6. Odin配置表 🛠️
 
 <img alt="Banner" src="Media/ObjectConfig.png"/>
 可视化数据生态，通过Odin插件构建的可视化配置体系支持：
