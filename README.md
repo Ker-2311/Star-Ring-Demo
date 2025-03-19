@@ -57,7 +57,7 @@ graph TB
 
 ### 2. 科研系统 ⚡
 
-<img alt="Banner" src="Media/ResearchPanel.gif" width="290"/>
+<img alt="Banner" src="Media/ResearchPanel.gif" width="300"/>
 
 *多层次科技树 | 动态增益联动 | 跨领域突破*
 
@@ -73,7 +73,7 @@ graph TB
 支持科技组合效应
 
 
-<img alt="Banner" src="Media/ResearchPanel2.png" width="290"/>
+<img alt="Banner" src="Media/ResearchPanel2.png" width="300"/>
 
 ### 3. 库存系统 🏡
 
@@ -93,7 +93,7 @@ graph TB
 
 ### 5. 战斗系统(未完成) ⚔️
 
-<img alt="Banner" src="Media/fight.gif"/>
+<img alt="Banner" src="Media/fight.gif" width="300"/>
 
 *多层战场维度 | 实时战术指挥 | 环境互动*
 
