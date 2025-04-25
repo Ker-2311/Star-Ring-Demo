@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d152dfbf4bf9a5745ace90a8a7a21696, type: 3}
+  m_Name: "\u7535\u78C1\u673A\u5173\u70AE"
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: Effects
+      Entry: 7
+      Data: 0|System.Collections.Generic.List`1[[ECS.Combat.Effect, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+  Info:
+    ID: 672582
+    Name: "\u7535\u78C1\u673A\u5173\u70AE"
+    Type: "\u52A8\u80FD"
+    Description: "\u8F7B\u578B\u673A\u5173\u70AE\u7684\u6539\u826F\u578B\u53F7\uFF0C\u91C7\u7528\u7535\u78C1\u53D1\u5C04\u7684\u6539\u826F\u673A\u5173\u70AE\uFF0C\u5A01\u529B\u548C\u5C04\u7A0B\u6709\u4E86\u4E00\u5B9A\u7684\u63D0\u5347\uFF0C\u5E76\u4E14\u62E5\u6709\u66F4\u5FEB\u7684\u53D1\u5C04\u901F\u5EA6"
+    FrontTechID: 
+    Cost: 0
+    FrontWeaponID: 
+    Property25: 
+    Property50: 
+    Property75: 
+    Damage: 0
+    Range: 0
+    BulletSpeed: 0
+    RotateSpeed: 0
+    FireCd: 0
+    Scatting: 0
+    AccumulateTime: 0
+    ChannelTime: 0
+    BulletFlightType: 0
+    BulletFireType: 0
+    ImpactEffectType: []
+  BulletPrefab: {fileID: 0}
+  WeaponPrefab: {fileID: 0}
+  EffectTypeName: "(\u6DFB\u52A0\u6548\u679C)"

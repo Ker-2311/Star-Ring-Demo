@@ -1,0 +1,3 @@
+﻿护盾ID,名字,描述,护盾容量,护盾回复速度,护盾击破回复速度,护盾特性,动能抗性,热能抗性,引力抗性,前置科技ID
+ID,Name,Description,MaxShieldPoint,ShieldGenerate,RegenerateCd,ShieldProperty,,,,FrontID
+,电磁护盾,通过强磁场来偏转攻击，但是致命的是，这对能量攻击没有什么作用,200,100,3,-1,100,50,0,33835

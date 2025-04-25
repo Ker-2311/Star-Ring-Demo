@@ -1,0 +1,3 @@
+﻿武器ID,名字,描述,前置科技ID,制造所需材料ID,制造所需星币,前置武器解析ID,解析度25%特性,解析度50%特性,解析度75%特性
+ID,Name,Description,FrontTechID,MaterialsCost,Cost,FrontWeaponID,Property25,Property50,Property75
+,空间锚,能够锁定飞船周围空间，禁止一定范围内的所有空间移动，但是不能防止利用时空的攻击,,,,,,,

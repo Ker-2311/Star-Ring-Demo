@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Custom_LaserShader
+  m_Shader: {fileID: 4800000, guid: 9a73dad3b637a414aafd2a370a892966, type: 3}
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _NoiseTex:
+        m_Texture: {fileID: 2800000, guid: 1a2ca48d7bed47e4dbfca8f866a5275e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _Float0: 10
+    - _FluidSpeed: -0.41
+    - _LaserWeight: 2
+    - __dirty: 0
+    m_Colors:
+    - _Color0: {r: 5.3403134, g: 5.3403134, b: 5.3403134, a: 0}
+    - _FluidSpeed: {r: -0.9, g: 0, b: 0, a: 0}
+    - _LaserColor: {r: 3.434555, g: 1.3780805, b: 0.9526029, a: 0}
+  m_BuildTextureStacks: []
